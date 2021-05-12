@@ -1,4 +1,7 @@
 # FuturovGovernanceToken
+https://futurov.com/
+https://t.me/Futurov
+https://twitter.com/futurov_
 
  Tokenomics:
         Total Fees: 4.2069%
